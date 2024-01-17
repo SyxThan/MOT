@@ -1,7 +1,6 @@
-# MOT
+![logo](https://github.com/SyxThan/MOT/blob/main/10.png)
 <h1 align="center">Hi 👋, I'm Sy</h1>
 <h3 align="center">Newbie</h3>
-<img align="right" alt="coding" width="400" scr="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syxthan&label=Profile%20views&color=0e75b6&style=flat" alt="syxthan" /> </p>
 
 - 🌱 I’m currently learning **Computer Science**
